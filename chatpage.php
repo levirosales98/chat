@@ -32,7 +32,7 @@
 		.container {
 			margin-top: 3%;
 			width: 60%;
-			background-color: #26262b9e;
+			background-color: #F3E021;
 			padding-right: 10%;
 			padding-left: 10%;
 			border: #120633 5px solid;
@@ -125,7 +125,7 @@
         <form class="form-horizontal" method="post" action="sendMessage.php"> <!--formulario para enviar mensajes-->
 			<div class="form-group">
 				<div class="col-sm-10">
-					<textarea name="msg" class="form-control" style="border: ridge 2px #56abf1;color: #000;" placeholder="Ingresa un mensaje"></textarea>
+					<textarea name="msg" class="form-control" style="border: ridge 2px #56abf1;color: #000;" placeholder="Ingresa tu mensaje"></textarea>
 				</div>
 				<div class="col-sm-2">
 					<button type="submit" class="btn btn-success" style="font-size: 22px;">Enviar</button>
