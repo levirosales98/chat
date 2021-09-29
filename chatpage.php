@@ -122,7 +122,7 @@
 
 		</div>
 
-        <form class="form-horizontal" method="post" action="sendMessage.php"> <!--formulario para enviar mensajes-->
+        <form class="form-horizontal" method="post" action="sendmessage.php"> <!--formulario para enviar mensajes-->
 			<div class="form-group">
 				<div class="col-sm-10">
 					<textarea name="msg" class="form-control" style="border: ridge 2px #56abf1;color: #000;" placeholder="Ingresa tu mensaje"></textarea>
