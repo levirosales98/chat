@@ -10,8 +10,8 @@
     </head>
     <body>
         <div class="container">
-            <center><h2 style="color:black; margin-top:20%">Chat 4to. BACO</h2></center>
-            <center><img src="images/ceict.png" widht="400" height="200"></center>
+            <center><h2 style="color:black; margin-top:20%">Chat UMG</h2></center>
+            <center><img src="images/umg.jpg" widht="400" height="200"></center>
         </div>
     </body>
 </html>

@@ -18,7 +18,7 @@
       .container{
           margin-top: 5%;
           width: 50%;
-          background-color: #F3E021;
+          background-color: #2C80BE;
           padding-top: 2%;
           padding-bottom: 2%;
       }
@@ -65,7 +65,7 @@
       
         <div class="form-group">        
           <div class="col-sm-offset-4 col-sm-8">
-            <button type="submit" class="btn btn-primary">Regístrate aquí</button>
+            <button type="submit" class="btn btn-warning">Regístrate aquí</button>
           </div>
         </div>
       

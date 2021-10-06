@@ -32,7 +32,7 @@
 		.container {
 			margin-top: 3%;
 			width: 60%;
-			background-color: #F3E021;
+			background-color: #2C80BE;
 			padding-right: 10%;
 			padding-left: 10%;
 			border: #120633 5px solid;
@@ -87,7 +87,7 @@
     <div class="container">
 		<center>
 			<h2>Bienvenido <span style="color:#120633; font-weight: 600;"><?php echo $_SESSION['name']; ?> </span> a nuestro chat</h2>
-			<label>Chat 4to. BACO &copy; 4to. BACO</label>
+			<label>Chat UMG &copy; OS1</label>
 		</center></br>
 		<div class="display-chat" id="display-chat">
 

@@ -31,7 +31,7 @@
 				.container{
 					margin-top: 3%;
 					width: 60%;
-					background-color: #F3E021;
+					background-color: #2C80BE;
 					padding-right:10%;
 					padding-left:10%;
 					font-size: 20px;
@@ -61,7 +61,7 @@
 			<br><br>
 				<label>Ingresa a nuestro chat</label><br>
 				<br><br>
-				<a href="chatpage.php" class="btn btn-primary" style="font-size: 20px;">Ir al chat</a>
+				<a href="chatpage.php" class="btn btn-warning" style="font-size: 20px;">Ir al chat</a>
 			</div>
 
 		<?php

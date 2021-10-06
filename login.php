@@ -21,7 +21,7 @@
             .container {
                 margin-top: 5%;
                 width: 50%;
-                background-color: #F3E021;
+                background-color: #2C80BE;
                 padding-top: 5%;
                 padding-bottom: 5%;
                 padding-right: 10%;
@@ -79,7 +79,7 @@
 
                 <div class="form-group">
                     <div class="col-sm-offset-2 col-sm-10">
-                        <button type="submit" class="btn btn-primary">Ingresar</button>
+                        <button type="submit" class="btn btn-warning">Ingresar</button>
                     </div>
                 </div>
 
